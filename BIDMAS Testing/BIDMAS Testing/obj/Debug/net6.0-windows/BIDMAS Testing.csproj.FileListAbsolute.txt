@@ -1,0 +1,17 @@
+C:\BIDMAS Testing\BIDMAS Testing\obj\Debug\net6.0-windows\BIDMAS Testing.csproj.AssemblyReference.cache
+C:\BIDMAS Testing\BIDMAS Testing\obj\Debug\net6.0-windows\BIDMAS_Testing.Form1.resources
+C:\BIDMAS Testing\BIDMAS Testing\obj\Debug\net6.0-windows\BIDMAS Testing.csproj.GenerateResource.cache
+C:\BIDMAS Testing\BIDMAS Testing\obj\Debug\net6.0-windows\BIDMAS Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\BIDMAS Testing\BIDMAS Testing\obj\Debug\net6.0-windows\BIDMAS Testing.AssemblyInfoInputs.cache
+C:\BIDMAS Testing\BIDMAS Testing\obj\Debug\net6.0-windows\BIDMAS Testing.AssemblyInfo.cs
+C:\BIDMAS Testing\BIDMAS Testing\obj\Debug\net6.0-windows\BIDMAS Testing.csproj.CoreCompileInputs.cache
+C:\BIDMAS Testing\BIDMAS Testing\bin\Debug\net6.0-windows\BIDMAS Testing.exe
+C:\BIDMAS Testing\BIDMAS Testing\bin\Debug\net6.0-windows\BIDMAS Testing.deps.json
+C:\BIDMAS Testing\BIDMAS Testing\bin\Debug\net6.0-windows\BIDMAS Testing.runtimeconfig.json
+C:\BIDMAS Testing\BIDMAS Testing\bin\Debug\net6.0-windows\BIDMAS Testing.dll
+C:\BIDMAS Testing\BIDMAS Testing\bin\Debug\net6.0-windows\BIDMAS Testing.pdb
+C:\BIDMAS Testing\BIDMAS Testing\obj\Debug\net6.0-windows\BIDMAS Testing.dll
+C:\BIDMAS Testing\BIDMAS Testing\obj\Debug\net6.0-windows\refint\BIDMAS Testing.dll
+C:\BIDMAS Testing\BIDMAS Testing\obj\Debug\net6.0-windows\BIDMAS Testing.pdb
+C:\BIDMAS Testing\BIDMAS Testing\obj\Debug\net6.0-windows\BIDMAS Testing.genruntimeconfig.cache
+C:\BIDMAS Testing\BIDMAS Testing\obj\Debug\net6.0-windows\ref\BIDMAS Testing.dll
